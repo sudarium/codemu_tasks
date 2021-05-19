@@ -85,3 +85,14 @@ h1, h2, h3, h4, h5, h6 {
 .block2{
   background: #000;
 }
+
+.btn{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  padding: 10px 25px;
+  background-color: #808080;
+  font-size: medium;
+}
