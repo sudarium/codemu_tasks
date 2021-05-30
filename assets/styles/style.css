@@ -85,3 +85,9 @@ h1, h2, h3, h4, h5, h6 {
 .block2{
   background: #000;
 }
+.inp{
+  padding: 15px;
+  margin: 15px;
+  background-color: rgb(200, 200, 231);
+  border: 1px solid blue;
+}
