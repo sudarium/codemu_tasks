@@ -85,3 +85,9 @@ h1, h2, h3, h4, h5, h6 {
 .block2{
   background: #000;
 }
+input{
+  background-color: rgb(220, 220, 233);
+  border: 1px solid blue;
+  margin: 15px;
+  padding: 10px;
+}
