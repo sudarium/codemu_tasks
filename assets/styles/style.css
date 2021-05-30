@@ -85,3 +85,16 @@ h1, h2, h3, h4, h5, h6 {
 .block2{
   background: #000;
 }
+.content{
+  width: 100px;
+  height: 200px;
+  background-color: gray;
+  margin: 50px;
+}
+.btn{
+  color: #fff;
+  padding: 10px 25px;
+  background-color: #808080;
+  font-size: medium;
+  margin: 15px;
+}
