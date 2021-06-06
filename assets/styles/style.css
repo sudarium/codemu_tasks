@@ -85,3 +85,22 @@ h1, h2, h3, h4, h5, h6 {
 .block2{
   background: #000;
 }
+.btn{
+  color: #fff;
+  padding: 10px 25px;
+  background-color: #808080;
+  font-size: medium;
+}
+.par{
+  margin: 25px;  
+}
+
+.cross{
+  text-decoration: line-through;
+}
+.colored{
+  color: red;
+}
+.bold{
+  font-weight: 900;
+}
