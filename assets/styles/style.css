@@ -85,3 +85,10 @@ h1, h2, h3, h4, h5, h6 {
 .block2{
   background: #000;
 }
+#elem{
+  width: 300px;
+  height: 200px;
+  background-color: rgb(167, 167, 182);
+  text-align: center;
+  font-size: 30px;
+}
