@@ -85,3 +85,11 @@ h1, h2, h3, h4, h5, h6 {
 .block2{
   background: #000;
 }
+#elem{
+  background-color: grey;
+  margin: 25px;
+  padding: 10px;
+  color: #000;
+  font-size: 20px;
+  cursor: pointer;
+}
