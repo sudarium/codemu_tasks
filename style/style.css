@@ -1,0 +1,16 @@
+.inp{
+    background-color: grey;
+    margin: 15px;
+    padding: 15px;
+    cursor: pointer;
+    color: black;
+}
+
+.btn{
+    background-color: grey;
+    padding: 15px;
+    margin: 15px;
+    font-size: 15px;
+    color: black;
+    cursor: pointer;
+}
