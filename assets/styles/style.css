@@ -85,3 +85,22 @@ h1, h2, h3, h4, h5, h6 {
 .block2{
   background: #000;
 }
+#select{
+  background-color: grey;
+  padding: 10px;
+  margin: 10px;
+  font-size: 15px;
+  color: black;
+}
+.btn{
+  color: #fff;
+  padding: 10px 25px;
+  background-color: #808080;
+  font-size: medium;
+  margin: 15px;
+}
+.text{
+  font-size: 15px;
+  border: 1px solid gray;
+  padding: 15px;
+}
