@@ -77,11 +77,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------*/
-.red{
-  font-size: 1000px;
 
+
+ul {
+	padding: 30px;
+	border: 1px solid red;
 }
-
-.block2{
-  background: #000;
+li {
+	list-style-type: none;
+	margin-bottom: 20px;
+	border: 1px dashed black;
 }
