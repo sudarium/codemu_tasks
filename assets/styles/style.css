@@ -85,3 +85,9 @@ h1, h2, h3, h4, h5, h6 {
 .block2{
   background: #000;
 }
+#weekSelect{
+  margin: 15px;
+  padding: 15px;
+  background-color: grey;
+  color: #000;
+}
